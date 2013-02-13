@@ -71,4 +71,3 @@ tags: 0.6.0
 [pygments]: http://pygments.org/
 [grunt-cli]: http://github.com/gruntjs/grunt-cli
 [Testacular]: https://github.com/testacular/testacular
-[docs]: https://github.com/testacular/testacular/tree/master/docs
